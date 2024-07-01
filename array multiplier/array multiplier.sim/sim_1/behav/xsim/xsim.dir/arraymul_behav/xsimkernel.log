@@ -1,0 +1,7 @@
+Running: xsim.dir/arraymul_behav/xsimk.exe -simmode gui -wdb arraymul_behav.wdb -simrunnum 0 -socket 52483
+Design successfully loaded
+Design Loading Memory Usage: 8056 KB (Peak: 8056 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 8652 KB (Peak: 8652 KB)
+Simulation CPU Usage: 46 ms
